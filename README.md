@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Manoj</h1>
 
 
-<h3 align="center">A passionate fullstack developer from India in MERN.</h3>
+<!--<h3 align="center">A passionate fullstack developer from India in MERN.</h3>-->
 
 
 
-- 🔭 I’m currently working on [js-pool](https://github.com/Ammyy9908/js-pool)
+- 🔭 I’m currently working on [learning python]
 
-- 🌱 I’m currently learning **swift language**
+- 🌱 I’m currently learning **Python language**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Ammyy9908/](https://github.com/Ammyy9908/)
+- 👨‍💻 All of my projects are available at [https://github.com/ManojEC407/](https://github.com/Ammyy9908/)
 
-- 💬 Ask me about **react,express,mongodb**
+- 💬 Ask me about **python**
 
-- 📫 How to reach me **sb78639@gmail.com**
+- 📫 How to reach me **manojshetty087@gmail.com**
 
-- 📄 Know about my experiences [https://sumit.engineer](https://sumit.engineer)
+# - 📄 Know about my experiences [https://sumit.engineer](https://sumit.engineer)
 
 - ⚡ Fun fact **I am moody.**
 
