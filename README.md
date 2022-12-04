@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **manojshetty087@gmail.com**
 
-# - 📄 Know about my experiences [https://sumit.engineer](https://sumit.engineer)
+<!-- # - 📄 Know about my experiences [https://sumit.engineer](https://sumit.engineer) -->
 
 - ⚡ Fun fact **I am moody.**
 
