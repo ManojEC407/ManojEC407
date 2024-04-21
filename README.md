@@ -3,10 +3,6 @@
 
 <!--<h3 align="center">A passionate fullstack developer from India in MERN.</h3>-->
 
-
-
-- 🔭 I’m currently working on [learning python]
-
 - 🌱 I’m currently learning **Python language**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ManojEC407/](https://github.com/Ammyy9908/)
